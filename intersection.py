@@ -1,5 +1,6 @@
 """
-Intersection example
+Examen del triangulo
+Autor Angel Nereo Jimenez Mayo
 """
 import matplotlib.pyplot as plt 
 import numpy as np
